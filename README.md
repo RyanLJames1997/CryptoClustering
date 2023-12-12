@@ -2,7 +2,7 @@
 
 Module 19 Challenge: UWA/edx Data Analytics Bootcamp
 
-Github repository at: https://github.com/RyanLJames1997/CryptoClustering/blob/main/README.md
+Github repository at: https://github.com/RyanLJames1997/CryptoClustering
 
 ## Introduction
 
